@@ -71,10 +71,9 @@ public class Main {
             sb.append(input);
         }
         System.out.println(sb);
-        
+
         for (int i = 0; i < 5; i++){
             System.out.println("*");
         }
-
     }
 }
